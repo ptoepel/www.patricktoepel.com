@@ -18,13 +18,15 @@ description: Kaldi is the ultimate spot for coffee lovers who want to learn
   knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/logo.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Moufpiece Entertainment was a side project for a friend of mine. He
+        created a podcast business and needed a website that would showcase his
+        gallery of media types. It was themed and customized to match the brand
+        and it's administrative needs.
+
+
+        Wordpress. Composer. SASS.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
