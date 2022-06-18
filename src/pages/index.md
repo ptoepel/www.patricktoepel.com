@@ -26,13 +26,13 @@ intro:
         and it's administrative needs.
 
 
-        Wordpress. Composer. SASS.
-    - image: /img/coffee-gear.png
+        Wordpress. Sage. Bedrock.Composer.
+    - image: /img/logo.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Another friend of mine needed a business website for her hair care and
+        skin products. She needed something quick and something that she and her
+        husband could manage. This was a fun project that required me to dig
+        deep into the WooCommerce side of WordPress.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
