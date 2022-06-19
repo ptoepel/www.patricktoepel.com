@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Projects
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: A Tech Journal
@@ -12,10 +12,10 @@ mainpitch:
     doesn't appear to be vanishing anytime soon. If you like these types of
     journies, then follow me. This is where I store my projects and various
     adventures.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: Here are several brands that I have worked with over the years. One
+  from a paying client and the other from a friend who tried to start up a
+  business at the start of the pandemic. Both I pride myself on, they were
+  wonderfully challenge requests.
 intro:
   blurbs:
     - image: /img/logo.jpg
