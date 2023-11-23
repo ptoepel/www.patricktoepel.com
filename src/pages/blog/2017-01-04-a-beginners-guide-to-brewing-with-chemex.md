@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Agile Is Being Murdered
+title: Agile-Fall
 date: 2017-01-04T15:04:10.000Z
 description: Agile-Fall is a hybrid project management approach that combines
   the flexibility of Agile with the structured planning of Waterfall. It
@@ -17,7 +17,7 @@ tags:
   - brewing
   - chemex
 ---
-<!--StartFragment-->
+
 
 # Agile-Fall: Bridging the Gap Between Agile and Waterfall in Project Management
 
