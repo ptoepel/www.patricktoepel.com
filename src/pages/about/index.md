@@ -4,37 +4,30 @@ path: /about
 title: About Me & Paths
 ---
 ### Designs/Mockups
-
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+"In today's digital landscape, the visual aspect of your web presence is crucial. Our Design and Mockup services focus on creating visually appealing and user-friendly designs for your website and digital products. We specialize in crafting bespoke mockups that align with your brand identity and resonate with your target audience. Let us turn your vision into a compelling digital reality."
 
 ### Front-End Development
-
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+"Our Front-End Development services are tailored to create an engaging user experience. We specialize in responsive design, ensuring that your website looks great and functions flawlessly on all devices. Using the latest technologies and best practices, we bring your digital interface to life, prioritizing speed, accessibility, and seamless user interaction."
 
 ### Back-End Development
-
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+"At the core of every powerful website is robust Back-End Development. We offer comprehensive back-end solutions, including database management, server-side scripting, and API integration. Our expertise ensures your website operates smoothly, securely, and efficiently, providing a strong foundation for your online presence."
 
 ### Data Administration
-
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+"In the realm of Data Administration, we focus on the effective management, storage, and retrieval of data. Our services ensure that your data is secure, organized, and accessible, enabling you to make data-driven decisions with confidence. We implement best practices in database management to support your business's growth and scalability."
 
 ### Server Administration
-
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+"Our Server Administration services guarantee that your online platforms are reliable, secure, and performing at their best. From server setup and maintenance to security and performance optimization, we provide end-to-end solutions to ensure that your server infrastructure meets the highest standards of efficiency and reliability."
 
 ### Full-Stack Development
+"Full-Stack Development is our holistic approach to building dynamic and robust web applications. Combining both front-end and back-end expertise, we deliver comprehensive solutions that encompass every aspect of web development. Our goal is to create seamless, scalable, and feature-rich applications that drive your business forward."
 
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
 
-### Raspberry Pi
+### Computer Modifications
+"Our Computer Modification services are designed for those who demand more from their hardware. We provide custom upgrades, performance tuning, and bespoke builds, ensuring that your computer not only meets but exceeds your expectations in terms of speed, efficiency, and reliability."
 
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Third-Party Integrations
+"We understand the importance of seamless integration in today’s interconnected digital environment. Our Third-Party Integration services ensure that your website or application works harmoniously with various external platforms and services, enhancing functionality and user experience."
 
-### Computer Modifcations
+### Project Management
+"Our Project Management services are centered on delivering your digital projects on time, within budget, and to the highest quality standards. We employ proven methodologies and tools to manage, track, and coordinate all aspects of your projects, ensuring smooth execution and successful outcomes."
 
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
-
-### Third Party/Integrations
-
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
