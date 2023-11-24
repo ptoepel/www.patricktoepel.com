@@ -33,7 +33,7 @@ intro:
         skin products. She needed something quick and something that she and her
         husband could manage. This was a fun project that required me to dig
         deep into the WooCommerce side of WordPress.
-    - image: /img/tutorials.png
+    - image: /img/acs-horizontal-feb2023-af-2_300x-2x-1-.avif
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
@@ -54,7 +54,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Database Analytics and Analysis
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
@@ -62,11 +62,11 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/databases.webp
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/backend.webp
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/ui.webp
 ---
