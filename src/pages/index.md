@@ -33,7 +33,7 @@ intro:
         skin products. She needed something quick and something that she and her
         husband could manage. This was a fun project that required me to dig
         deep into the WooCommerce side of WordPress.
-    - image: /img/acs-horizontal-feb2023-af-2_300x-2x-1-.avif
+    - image: /img/acs-horizontal-feb2023-af-2_300x-2x.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
