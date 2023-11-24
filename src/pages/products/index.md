@@ -2,8 +2,8 @@
 heading: About Patrick
 path: /products
 templateKey: product-page
-title: Our Coffee
-image: /img/jumbotron.jpg
+title: My Services
+image: /img/code.webp
 description: I'm a self taught developer that has worked as a contractor that
   worked with several fortune 500 companies. Most of those companies usually had
   a goal in mind of increasing traffic, cleaning up some of the design, or
@@ -69,7 +69,7 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+full_image: /img/code-2.webp
 pricing:
   heading: Monthly subscriptions
   description: We make it easy to make great coffee a part of your life. Choose
