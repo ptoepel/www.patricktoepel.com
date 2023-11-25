@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Patrick Technology Journey
 image: /img/code.webp
 heading: Projects
-subheading: Support sustainable farming while enjoying a cup
+subheading: nerdy topics for nerdy people
 mainpitch:
   title: A Tech Journal
   description: >
@@ -42,17 +42,10 @@ intro:
         Email us or call the store for details.
     - image: /img/5280sdc.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        A national dance event that I started that went from sixty locals to about five hundrend total attendees. It was a expeirence that was once in a life-time but it also gave me the coding chops to get my web development career up and going.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+          Working in the tech industry comes with it's ups and downs and this is a place where I can track all of that over time. Find articles that are helpful and share them, write my own because I'm a horrible writter, and just share some pictures that related to my career/hobbies.
 main:
   heading: Database Analytics and Analysis
   description: >
