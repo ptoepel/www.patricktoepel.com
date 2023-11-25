@@ -14,7 +14,7 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered">
 
         </div>
-        <div className="content has-text-centered has-background-black has-text-white-ter">
+        <div className="content has-text-centered">
           <div className="container">
             <div style={{ maxWidth: "100vw" }} className="columns">
               <div className="column is-4">
