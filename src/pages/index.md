@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Patrick Technology Journey
+title: Patrick's Technology Journey
 image: /img/code.webp
 heading: Projects
 subheading: nerdy topics for nerdy people
