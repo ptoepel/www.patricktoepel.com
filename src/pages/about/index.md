@@ -31,6 +31,8 @@ title: About Me & Paths
 
 ### Computer Modifications
 
+![](/img/green.jpg)
+
 "Our Computer Modification services are designed for those who demand more from their hardware. We provide custom upgrades, performance tuning, and bespoke builds, ensuring that your computer not only meets but exceeds your expectations in terms of speed, efficiency, and reliability."
 
 ### Third-Party Integrations
