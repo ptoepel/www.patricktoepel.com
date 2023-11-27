@@ -42,24 +42,31 @@ intro:
         Email us or call the store for details.
     - image: /img/5280sdc.jpg
       text: >
-        A national dance event that I started that went from sixty locals to about five hundrend total attendees. It was a expeirence that was once in a life-time but it also gave me the coding chops to get my web development career up and going.
+        A national dance event that I started that went from sixty locals to
+        about five hundrend total attendees. It was a expeirence that was once
+        in a life-time but it also gave me the coding chops to get my web
+        development career up and going.
   heading: What we offer
   description: >
-          Working in the tech industry comes with it's ups and downs and this is a place where I can track all of that over time. Find articles that are helpful and share them, write my own because I'm a horrible writter, and just share some pictures that related to my career/hobbies.
+    Working in the tech industry comes with it's ups and downs and this is a
+    place where I can track all of that over time. Find articles that are
+    helpful and share them, write my own because I'm a horrible writter, and
+    just share some pictures that related to my career/hobbies.
 main:
   heading: Database Analytics and Analysis
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  description: Having issues with Analytics within your company. Chances are it's
+    not that you are horrible with data, chances are it's that it was
+    garbage-in-garbage-out in the survival period of a small business. Let me
+    help you clean that up and produce some reporting and analysis that will
+    better help your business and start you down the path of better knowing your
+    data.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Databases
     image: /img/databases.webp
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Backend Development
     image: /img/backend.webp
   image3:
-    alt: Coffee beans
+    alt: UX/UI
     image: /img/ui.webp
 ---
