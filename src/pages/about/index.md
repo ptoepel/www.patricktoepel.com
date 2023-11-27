@@ -5,6 +5,8 @@ title: About Me & Paths
 ---
 ### Designs/Mockups
 
+![Figma](/img/figma.png "Use a little Figma to get the design juices flowing")
+
 "In today's digital landscape, the visual aspect of your web presence is crucial. Our Design and Mockup services focus on creating visually appealing and user-friendly designs for your website and digital products. We specialize in crafting bespoke mockups that align with your brand identity and resonate with your target audience. Let us turn your vision into a compelling digital reality."
 
 ### Front-End Development
