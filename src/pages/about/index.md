@@ -15,6 +15,8 @@ title: About Me & Paths
 
 ### Back-End Development
 
+![](/img/backend.jpg)
+
 "At the core of every powerful website is robust Back-End Development. We offer comprehensive back-end solutions, including database management, server-side scripting, and API integration. Our expertise ensures your website operates smoothly, securely, and efficiently, providing a strong foundation for your online presence."
 
 ### Data Administration
@@ -22,6 +24,8 @@ title: About Me & Paths
 "In the realm of Data Administration, we focus on the effective management, storage, and retrieval of data. Our services ensure that your data is secure, organized, and accessible, enabling you to make data-driven decisions with confidence. We implement best practices in database management to support your business's growth and scalability."
 
 ### Server Administration
+
+![](/img/server-admin.png)
 
 "Our Server Administration services guarantee that your online platforms are reliable, secure, and performing at their best. From server setup and maintenance to security and performance optimization, we provide end-to-end solutions to ensure that your server infrastructure meets the highest standards of efficiency and reliability."
 
