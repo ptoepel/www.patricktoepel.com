@@ -21,6 +21,8 @@ title: About Me & Paths
 
 ### Data Administration
 
+![](/img/db.png)
+
 "In the realm of Data Administration, we focus on the effective management, storage, and retrieval of data. Our services ensure that your data is secure, organized, and accessible, enabling you to make data-driven decisions with confidence. We implement best practices in database management to support your business's growth and scalability."
 
 ### Server Administration
@@ -28,10 +30,6 @@ title: About Me & Paths
 ![](/img/server-admin.png)
 
 "Our Server Administration services guarantee that your online platforms are reliable, secure, and performing at their best. From server setup and maintenance to security and performance optimization, we provide end-to-end solutions to ensure that your server infrastructure meets the highest standards of efficiency and reliability."
-
-### Full-Stack Development
-
-"Full-Stack Development is our holistic approach to building dynamic and robust web applications. Combining both front-end and back-end expertise, we deliver comprehensive solutions that encompass every aspect of web development. Our goal is to create seamless, scalable, and feature-rich applications that drive your business forward."
 
 ### Computer Modifications
 
@@ -44,5 +42,7 @@ title: About Me & Paths
 "We understand the importance of seamless integration in today’s interconnected digital environment. Our Third-Party Integration services ensure that your website or application works harmoniously with various external platforms and services, enhancing functionality and user experience."
 
 ### Project Management
+
+![](/img/trello.png)
 
 "Our Project Management services are centered on delivering your digital projects on time, within budget, and to the highest quality standards. We employ proven methodologies and tools to manage, track, and coordinate all aspects of your projects, ensuring smooth execution and successful outcomes."
