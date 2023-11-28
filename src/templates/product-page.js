@@ -25,7 +25,7 @@ export const ProductPageTemplate = ({
   const fullWidthImage = getImage(fullImage) || fullImage;
 
   return (
-    <div className="content">
+    <div className="content-article">
       <FullWidthImage img={heroImage} title={title} />
       <section className="section section--gradient">
         <div className="container">
